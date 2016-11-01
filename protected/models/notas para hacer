@@ -1,0 +1,7 @@
+validar los campos únicos con la base de datos
+acomodar el diseño
+luego de aprender los modelos realizar  los controladores
+
+
+como se valida un campo repetido en la base de datos. . . .
+   array('actividad','unique', 'attributeName'=>'actividad','message'=>'Este campo ya esta registrado'),
